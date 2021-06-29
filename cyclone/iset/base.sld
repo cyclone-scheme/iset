@@ -15,6 +15,5 @@
           iset-left-set!
           iset-right-set!)
   (import (scheme base)
-          (srfi 9)
           (srfi 60))
   (include "base.scm"))
